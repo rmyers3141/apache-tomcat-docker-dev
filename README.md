@@ -1,5 +1,5 @@
 # apache-tomcat-docker-dev
-Creation of a custom Docker image for Apache Tomcat Server.
+Creation of a custom Docker image for Apache Tomcat Server 10.x.
 
 ## Overview
 I have developed a `Dockerfile` to build a custom Docker image for **Apache Tomcat v10.1.8**, (hereafter referred to just as *"Tomcat"*).
